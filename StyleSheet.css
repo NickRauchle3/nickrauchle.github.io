@@ -1,0 +1,25 @@
+.sidebar 
+{
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: grey;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+.sidebar a
+{
+    display: block;
+    color: wheat;
+    padding: 16px;
+    text-decoration:none;
+    border: solid;
+    
+    
+}
+
+.home{
+    text-align:center;
+}
