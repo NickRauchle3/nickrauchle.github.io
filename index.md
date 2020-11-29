@@ -4,10 +4,11 @@ You can use the [editor on GitHub](https://github.com/NickRauchle3/nickrauchle.g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Purpose of this Website
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+This website is to show everyone who I am. I'm an studying MIS at the 
+        University of Oklahoma. I will be graduating in the Fall of 2021.
+        Boomer Sooner!
 ```markdown
 Syntax highlighted code block
 
