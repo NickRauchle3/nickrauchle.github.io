@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Nick Rauchle's Website
 
 You can use the [editor on GitHub](https://github.com/NickRauchle3/nickrauchle.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
