@@ -1,3 +1,21 @@
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: black;
+    background-color: grey;
+    padding: 15px;
+    color: white;
+    
+}
+
+h3
+{
+    text-align:center;
+    text-decoration:underline;
+    text-decoration-color:black;
+}
+
 .sidebar 
 {
     margin: 0;
